@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jatgup123/DSA-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jatgup123/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/jatgup123/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/jatgup123/DSA-Practice/tree/master/0283-move-zeroes) |
@@ -19,4 +20,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/jatgup123/DSA-Practice/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/jatgup123/DSA-Practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
